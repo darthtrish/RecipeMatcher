@@ -2,7 +2,7 @@
 
 A command-line tool that helps you find recipes based on ingredients you have at home.
 
-**Note:** This is a practice project built to learn Go programming and work with APIs.
+**Note:** This is a practice project I built to learn Go programming and work with APIs. :)
 
 ## Features
 
@@ -10,7 +10,6 @@ A command-line tool that helps you find recipes based on ingredients you have at
 - Browse recipe results
 - View detailed cooking instructions
 - Free API - no registration required
-- Retro ASCII interface
 
 ## Prerequisites
 
